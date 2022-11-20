@@ -1,6 +1,7 @@
 import esbuild from "esbuild";
 import process from "process";
 import builtins from 'builtin-modules'
+// import plugin_package from "package.json";
 
 const banner =
 `/*
@@ -33,10 +34,17 @@ esbuild.build({
 		'@lezer/lr',
 		...builtins],
 	format: 'cjs',
-	watch: !prod,
 	target: 'es2018',
 	logLevel: "info",
 	sourcemap: prod ? false : 'inline',
 	treeShaking: true,
-	outfile: 'main.js',
-}).catch(() => process.exit(1));
+	// outfile: 'main.js',
+	outdir: `test_vault/.obsidian/plugins/obsidian-convenience-plugin`,
+	watch: !prod && {
+		onRebuild(error, result) {
+		  if (error) console.error('watch build failed:', error)
+		  else console.log('watch build succeeded:', result)
+		},
+	},
+})
+.catch(() => process.exit(1));

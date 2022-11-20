@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sample File.md",
+                "file": "Sample Folder 2/Sample File.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sample Folder/Sample file in a sample folder.md",
+                "file": "Sample Folder 2/Sample File.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sample Folder/Sample file in a sample folder.md",
+                "file": "Sample Folder 2/Sample File.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sample Folder/Sample file in a sample folder.md",
+                "file": "Sample Folder 2/Sample File.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sample Folder/Sample file in a sample folder.md"
+                "file": "Sample Folder 2/Sample File.md"
               }
             }
           }
@@ -146,13 +146,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "d233de1e1ee030b0",
   "lastOpenFiles": [
-    "Sample File.md",
     "Sample Folder/Sample file in a sample folder.md",
+    "Sample Folder 2/Sample File.md",
     "Untitled.md"
   ]
 }

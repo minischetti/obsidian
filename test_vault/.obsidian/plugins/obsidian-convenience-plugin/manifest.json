@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-convenience-plugin",
+	"name": "Obsidian Convenience Plugin",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "This is a convenience plugin for Obsidian.",
+	"author": "Dominic Minischetti",
+	"authorUrl": "",
+	"isDesktopOnly": false
+}
