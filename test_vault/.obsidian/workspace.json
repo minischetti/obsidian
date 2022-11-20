@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "553fb210185c2fb3",
+    "type": "split",
+    "children": [
+      {
+        "id": "d881492114bc24c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d7969d6ea20d506",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sample File.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d233de1e1ee030b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sample Folder/Sample file in a sample folder.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e6e2a900b854e4cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "167f4cf59d2d1563",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e66c85f499b8a32",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e276d76d11d85eb1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9119b47e720d4baf",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8c0f1a8c234bbd03",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ff680d56e060986",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1dc801168b97294",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sample Folder/Sample file in a sample folder.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "52d5b634409dee35",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sample Folder/Sample file in a sample folder.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ffb0fa7475790a8d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cb51e51385447af8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sample Folder/Sample file in a sample folder.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d233de1e1ee030b0",
+  "lastOpenFiles": [
+    "Sample File.md",
+    "Sample Folder/Sample file in a sample folder.md",
+    "Untitled.md"
+  ]
+}
